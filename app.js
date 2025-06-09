@@ -17,7 +17,7 @@ function alterarStatus(id) {
        
     }
 
-}_
+}
 
 
 
